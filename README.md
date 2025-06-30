@@ -1,5 +1,4 @@
-Projeto Final – Parceria Semantix_redmi.txt](https://github.com/user-attachments/files/20981227/Projeto.Final.Parceria.Semantix_redmi.txt)
-Projeto Final – Parceria Semantix
+                                       Projeto Final – Parceria Semantix
 
                                                    Autor
 
@@ -39,10 +38,8 @@ Investigar a evolução da pandemia, a distribuição dos casos e o impacto da v
 
 
 
-                                                   Painel Looker Studio
-
-
-                               Apresenta:
+     Painel Looker Studio
+ Apresenta:
 
 - Scorecards com totais de casos e mortes
 - Evolução diária e mensal de mortes e vacinação
@@ -50,11 +47,5 @@ Investigar a evolução da pandemia, a distribuição dos casos e o impacto da v
 - Tabela dinâmica mensal
 
                                                     Conclusão 
-
-
-
 A análise mostra que o avanço da vacinação está diretamente ligado à redução nas taxas de mortalidade. Visualizar esses dados facilita a compreensão e tomada de decisões baseadas em evidência.
-
-
-
 Desenvolvido para a Parceria Educacional com a Semantix.
